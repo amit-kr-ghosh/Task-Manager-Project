@@ -80,7 +80,7 @@ const handleAutocomplete = async () => {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
-        Authorization: "Bearer MCphrpNJ9jga5k9qfYNLW9qRnn6XQ5eASLGi3ShC", 
+        Authorization: "", 
       },
       body: JSON.stringify({
         model: "command",
